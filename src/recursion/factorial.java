@@ -1,5 +1,6 @@
 package recursion;
-//dsfdsfdsfsdfdsfdsfsdf test
+//simple recursion example
+
 public class factorial {
 
 	public factorial() {
